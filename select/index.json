@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "島人ぬ宝",
+  "base_artist": "BEGIN",
+  "createdAt": "2026-02-20T11:44:22.571729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "島人ぬ宝",
+      "artist": "BEGIN",
+      "has_synced": true,
+      "path": "select/01_島人ぬ宝_BEGIN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "島人ぬ宝 - Shimanchu nu Takara",
+      "artist": "BEGIN",
+      "has_synced": true,
+      "path": "select/02_島人ぬ宝_-_Shimanchu_nu_Takara_BEGIN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "島人ぬ宝",
+      "artist": "夏川 りみ",
+      "has_synced": true,
+      "path": "select/03_島人ぬ宝_夏川_りみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "島人ぬ宝 - Shimanchu nu Takara",
+      "artist": "BEGIN",
+      "has_synced": true,
+      "path": "select/04_島人ぬ宝_-_Shimanchu_nu_Takara_BEGIN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "島人ぬ宝（ライブ・バージョン）",
+      "artist": "Rimi Natsukawa",
+      "has_synced": true,
+      "path": "select/05_島人ぬ宝(ライブ・バージョン)_Rimi_Natsukawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "島人ぬ宝",
+      "artist": "Rimi Natsukawa",
+      "has_synced": true,
+      "path": "select/06_島人ぬ宝_Rimi_Natsukawa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "島人ぬ宝",
+      "artist": "BENI",
+      "has_synced": false,
+      "path": "select/07_島人ぬ宝_BENI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "島人ぬ宝",
+      "artist": "BEGIN",
+      "has_synced": false,
+      "path": "select/pl_01_島人ぬ宝_BEGIN.txt"
+    }
+  ]
+}
